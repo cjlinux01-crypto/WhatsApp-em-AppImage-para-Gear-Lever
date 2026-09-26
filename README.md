@@ -31,5 +31,5 @@ O Gear Lever é uma ferramenta para Linux que ajuda a gerir ficheiros AppImage, 
 - Compatibilidade: Testado em distribuições Linux com suporte a AppImage.
 - Permissão de execução manual (opcional): Caso pretenda executar sem utilizar o Gear Lever, abra o terminal e execute:
   ```bash
-  chmod +x WhatsApp.AppImage
-  ./WhatsApp.AppImage
+  chmod +x WhatsApp-1.0.0.AppImage
+  ./WhatsApp-1.0.0.AppImage
